@@ -21,16 +21,18 @@ This project is a product List app developed using SwiftUI, following the MVVM (
 ## Project Structure
 ProductManagementApp/
 ├── ViewModels/
-│   ├── ProductListViewModel.swift
-│   └── AddProductViewModel.swift
+│ ├── ProductListViewModel.swift
+│ └── AddProductViewModel.swift
+
 ├── Views/
-│   ├── ProductListView.swift
-│   ├── AddProductView.swift
-│   ├── ProductRow.swift
-│   └── SearchBar.swift
+│ ├── ProductListView.swift
+│ ├── AddProductView.swift
+│ ├── ProductRow.swift
+│ └── SearchBar.swift
+
 ├── Models/
-│   ├── Product.swift
-│   └── AddProductResponse.swift
+│ ├── Product.swift
+│ └── AddProductResponse.swift
 ├── ProductManagementAppApp.swift
 
 
@@ -61,12 +63,17 @@ ProductManagementApp/
 Open the project:
 Open ProductListApp.xcodeproj in Xcode.
 Run the project:
+
 Select the target device or simulator and click the Run button in Xcode.
 Usage
+
 Viewing Products:
+
 Launch the app to see a list of products.
 Use the search bar at the top to filter products by name.
 Adding Products:
+
 Tap the "Add Product" button to navigate to the add product screen.
+
 Fill in the product details and tap "Submit" to add a new product.
 
