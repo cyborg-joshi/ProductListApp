@@ -59,7 +59,7 @@ ProductManagementApp/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/cyborg_joshi/ProductListApp.git
+   git clone https://github.com/cyborg-joshi/ProductListApp.git
 Open the project:
 Open ProductListApp.xcodeproj in Xcode.
 Run the project:
